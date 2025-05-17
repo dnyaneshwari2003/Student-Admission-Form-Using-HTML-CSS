@@ -9,7 +9,7 @@ A simple student admission form website built using HTML and CSS. The form allow
 - Redirects users to a "Submission Successful" page after completing the form.
 
 ## Preview
-1.
+
 ![Screenshot 2025-01-19 142754](https://github.com/user-attachments/assets/a872d317-5a3f-477d-bfc3-06ed1ff7d573)
 
 ![Screenshot 2025-01-19 142801](https://github.com/user-attachments/assets/150e3cf9-bf40-4739-b13d-62e76ef44be9)
